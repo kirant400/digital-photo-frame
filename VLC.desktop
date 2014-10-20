@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=VLC
+GenericName=Image File
+Comment=This is starting file
+Exec=sh -c '~/Dropbox/full_play.sh'
+Type=Application
+Icon=vlc
